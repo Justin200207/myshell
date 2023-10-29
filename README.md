@@ -1,4 +1,4 @@
-# myshell
+# Myshell
 My custom-built Bash implementation, written in C.
 The program is designed to mimic the behavior of a standard Unix shell.
 <br>![Alt text](screenshots/echo.png)
